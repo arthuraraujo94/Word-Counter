@@ -21,3 +21,5 @@ for word in word_list:
 
 for word in sorted(word_dict, key=word_dict.get, reverse=True):
     print(word, word_dict[word])
+
+input("\nPress ENTER to quit.")
