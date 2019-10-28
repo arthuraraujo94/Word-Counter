@@ -1,0 +1,112 @@
+Vale é hackeada e documentos mostram como empresa lida com acidentes - TecMundo
+Menu
+Explore por temas!
+Modo noturno?
+Novidades
+Reviews
+Comparador
+Mais lidas
+Udemy
+Tutoriais
+Teste de velocidade
+Celulares
+Tecnologia
+Internet
+Mercado
+Segurança
+Software
+Ciência
+Produto
+Cultura Geek
+Mobilidade / SmartCities
+Não achou uma categoria?
+Faça uma busca!
+Bookmarks
+Salve suas notícias e leia quando quiser.
+Por Felipe Payão
+@felipepayao
+173
+30/01/2019
+3 min de leitura
+Vale é hackeada e documentos mostram como empresa lida com acidentes
+A mineradora multinacional brasileira Vale foi invadida e documentos internos supostamente confidenciais foram retirados e vazados por invasores. Hackers teriam se aproveitado de uma porta aberta em ferramenta de software para colaboração em equipe, para resgatar atas e extrair ocorrências e incidentes de segurança pelo mundo. Esse tipo de extração é caracterizada como Google Hacking.
+O TecMundo recebeu os documentos na terça-feira (29) por uma fonte anônima. São cerca de 40 mil arquivos em uma pasta de 500 MB. Por lá, é possível encontrar incidentes de segurança que aconteceram entre 2017 e 2019 em áreas da Vale no Brasil, Canadá, Moçambique, Nova Caledônia e Indonésia.
+CONTINUA APÓS A PUBLICIDADE
+Os documentos internos mostram como a Vale lida e categoriza incidentes que aconteçam com funcionários ou ambientais
+“Um dos documentos relata assalto a mão armada em um duto, e não houve registro de ocorrência policial posterior”, afirmou a fonte no email em que enviou os documentos. O TecMundo encontrou o documento citado em específico, mas não a questão da ocorrência policial citada.
+A Vale foi contatada sobre o incidente, contudo, não ofereceu qualquer resposta até o momento da publicação desta matéria — atualização: após a publicação, a companhia enviou uma nota que você confere abaixo.
+Do outro lado, os hackers não detalharam como a companhia foi invadida, apenas notaram que os documentos foram extraídos por meio de uma brecha na URL oculta que estava aberta ao público via Microsoft Sharepoint — “Indexação de documentos secretos em um subdomínio oculto, por meio de motores de busca”, notaram.
+Os hackers também enviaram uma nota ao TecMundo sobre os motivos da invasão. Acompanhe na íntegra: "Quanto vale uma vida? Para a Vale do Rio Doce uma vida é apenas um número, uma cifra, um ponto estatístico, um risco mensurável na reputação da marca. Achamos que teriam aprendido com experiências passadas, mas é simplesmente impossível que percebam valor de uma vida, se eu mato 65 pessoas sou retirado de circulação, se uma empresa do tamanho dela mata, recebem uma multa e continuam operando normalmente. Uma multa! Não é a toa que assim a vida também tenha um preço. Eu e você todos temos um preço nessa tabela, é questão de tempo para sermos os próximos, assim que isso for rentável. Não iremos ficar quietos, lutaremos contra a estupidez com a informação. Quanto vale a vida? A vida vale mais do que a vale".
+Relatório "Aprendendo com o incidente"
+Posicionamento da Vale
+A Vale disse em posicionamento ao TecMundo que "não houve falha técnica no site Sharepoint ou invasão de seu ambiente de TI" e que "as informações contidas nos documentos são registros e tratativas dos incidentes e quase acidentes de segurança. Esse registro é obrigatório na Vale e faz parte do nosso sistema de Gestão de Saúde e Segurança e Meio Ambiente".
+A empresa também disse que "os arquivos de uso interno que foram atribuídos a um vazamento, na verdade, estavam disponíveis em área pública do nosso site vale.com".
+O local no site em que os 40 mil arquivos poderiam ser baixados não foi indicado. Além disso, os documentos possuem o aviso mostrado abaixo — documentos estes que, caso estiverem públicos, exibem dados pessoais de funcionários (nome completo, email, cargo na empresa, local de trabalho), o que abre portas para ataques cibercriminosos como o spear phishing e até tentativas de credential stuffing.
+Somente para comunicação interna
+Atas
+Nas atas de incidente de segurança, a Vale faz as seguintes separações: “Acidente Pessoal”, “Acidente Material”, “Acidente Ambiental” e “Quase Acidente”. Além disso, existem classificações entre “Severidade” do acidente que ainda envolvem “Real” e “Potencial”. No documento que você vê abaixo, um “Quase Acidente” em Mato Grosso do Sul não teve consequência, mas poderia ser “Catastrófico”.
+Documento interno da Vale
+Na ata abaixo, é possível notar um vazamento de 500 litros de óleo que poderia ser "Catastrófico", mas foi "Crítico". O problema aconteceu no Rio de Janeiro:
+Vazamento de óleo
+Vale no holofote
+A Vale está nos holofotes por um crime ambiental: o rompimento da barragem de Brumadinho, Minas Gerais, que aconteceu na última sexta-feira (25). Rompeu-se uma barragem de rejeitos de mineração construída no ribeirão Ferro-Carvão, no Córrego do Feijão, que até o momento deixou mais de 84 corpos e 276 pessoas desaparecidas.
+Após o acidente, na noite da última quarta-feira (30), a Vale afirmou que irá desativar todas as barragens similares que existem no Brasil.
+Documento interno
+Alertas de acidentes críticos ou catastróficos
+Documentos
+Acidente fatal
+Relatório de acidente fatal
+Pontos de alerta
+Pontos de alerta
+Como fazer denúncias ao TecMundo
+Nossos canais são: denuncia@tecmundo.com.br ou felipepayao@protonmail.com
+Cupons de desconto TecMundo:
+Descontos Ponto Frio
+Descontos Fast Shop
+Descontos Gearbest
+Descontos em Smartphones
+Descontos Ricardo Eletro
+CONTINUA APÓS A PUBLICIDADE
+Categorias
+Segurança
+Ataque hacker
+Mercado
+Política
+Anonymous
+Novidades
+Assistências técnicas de celular movimentam 24 milhões de aparelhos por mês
+13/10/2019
+há 2 horas
+WhatsApp: como recuperar um áudio que você apagou sem querer
+13/10/2019
+há 4 horas
+Anime: os 8 melhores episódios piloto de séries
+13/10/2019
+há 6 horas
+Marvel: confira quem são os 10 personagens mais ricos das HQs
+13/10/2019
+há 8 horas
+Comentários
+Conteúdo disponível somente online
+Institucional
+Sobre
+Contato
+Jobs
+Política de Privacidade
+Licenciamento de Conteúdo
+Nossos Sites
+Tecmundo
+Mega Curioso
+Minha Série
+Click Jogos
+The Brief
+Voxel
+Marie Curie
+Baixaki
+Fika Dika
+The Hardware Show
+Save Coins
+© COPYRIGHT 2019 - NO ZEBRA NETWORK S.A.
+TODOS OS DIREITOS RESERVADOS.
+Vale é hackeada e documentos mostram como empresa lida com acidentes
+173

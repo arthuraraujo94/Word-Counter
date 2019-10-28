@@ -1,25 +1,38 @@
-from tkinter.filedialog import askopenfilename
+from tkfilebrowser import askopenfilename
 import string
+import json
+import csv
+
 
 file_object = open(askopenfilename(), 'r')
 test_string = file_object.read()
-
+file = open('testfile.txt','w')
+stopwords = open('stopwords.txt', 'w') 
 
 word_list = test_string.split()
 
-for word in word_list:
-    for char in word:
-        if char in string.punctuation and char != "'":
-            word.replace(char, "")
+with open ('resultadobrumadinho.csv', 'w') as output:
+    fieldnames = ['palavra', 'contagem']
+    writer = csv.DictWriter(output, fieldnames=fieldnames)
 
-word_dict = {}
-for word in word_list:
-    word_dict[word] = 0
+    writer.writeheader()
+    
+    for word in word_list:
+        for char in word:
+            if char in string.punctuation and char != "'":
+                word.replace(char, "")
 
-for word in word_list:
-    word_dict[word] += 1
+    word_dict = {}
+    for word in word_list:
+        word_dict[word] = 0
 
-for word in sorted(word_dict, key=word_dict.get, reverse=True):
-    print(word, word_dict[word])
+    for word in word_list:
+        word_dict[word] += 1
+
+    for word in sorted(word_dict, key=word_dict.get, reverse=True):
+        writer.writerow({'palavra': word, 'contagem': word_dict[word]})
+      
+    
+    
 
 input("\nPress ENTER to quit.")

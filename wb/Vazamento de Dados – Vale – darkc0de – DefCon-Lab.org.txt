@@ -1,0 +1,85 @@
+Vazamento de Dados – Vale – darkc0de – DefCon-Lab.org
+Menu
+DefCon-Lab.org
+Vazamento de Dados – Vale – darkc0de
+In Condição DefensivaTags darkc0debr, Exposed, hacktivismo, Leak, Purpl3Pand4, Vale, Vazamento07/02/2019 Defcon-Lab
+Nosso sistema de Monitoramento Avançado Persistente detectou, em 07/02/19, publicação nos sites de compartilhamento de texto Ghostbin, Pastebin e Anonpaste que apresenta dados da empresa Vale do Rio Doce.
+A ação foi reivindicada pelo hacker brasileiro darkc0debr e contou com a contribuição de Purpl3Pand4. A publicação indica a motivação de protesto contra o terrível rompimento da barragem de Brumadinho/MG.
+Agora em 2019 a mesmo história se repete, pelo visto o Lucro fala bem mais alto do que nossos ecossistemas e as vidas humanas. Nós não deixaremos passar em branco. Por isso, novamente conseguimos acessar o banco de dados da VALE e estamos expondo. O mundo saberá que a Vale não se importa com o povo brasileiro e nossas terras, e vocês serão punidos; Digam não ao retrocesso ambiental! Se for aprovado na forma como foi apresentado, o substitutivo ao Projeto de Lei 3.729/04, que propõe a flexibilização do licenciamento ambiental, representará um enorme retrocesso para o Brasil.
+Na publicação há referências a publicações de vazamentos do ano de 2015 – logo após a tragédia de Mariana/MG – os quais contém volume significativo de informações.
+Leak – Vale – 2015 Leak – Vale – 2015
+Além deles, novas publicações com divulgação de nomes de tabelas de bancos de dados e dados pessoais de diretor da Vale do Rio Doce foram realizadas nos links divulgados.
+Leak – Vale – 2019 Leak – Vale – 2019
+Trata-se de sinal evidente do engajamento da comunidade hacktivista brasileira diante do prospecto de impunidade que desponta diante dessa nova tragédia. Vale lembrar que passados três anos de Mariana/MG, não há condenados pelo ocorrido.
+Site Sidebar
+Search for:
+Fale Conosco
+Sobre o Site
+Posts por categoria
+Condição Defensiva
+Defesa Ativa
+Geral
+Mapeamentos
+Posts recentes
+Vulns – Vários Alvos – Phallanx
+Phishing – TRT10 – Banco Inter
+Vulns – Vários Alvos – Web Power House
+Vazamento de Dados – Vários Alvos – Phallanx
+Vazamento de Dados –
+Vários Alvos – NedLock
+Redes Sociais
+Feed de notícias
+Site Footer
+Contato Deixe sua mensagem:
+Redes socias
+contato@defcon-lab.org
+https://www.defcon-lab.org
+Feed do site:
+Sobre o Site Por que o mundo do Big Data é infestado por Fake News? Porque o volume de dados por si só não explica o mundo.
+Ao agregar análise qualificada a dados primários, o Lab oferece significado e compreensão da dimensão cibernética.
+Vulnerabilidades, Ameaças Cibernéticas (estatais e não-estatais), Riscos Cibernéticos e Big Data são nossos temas de interesse.
+TagsAkatsuki Gang
+Al1ne
+Al1ne3737
+Brazilian Cyber Army
+CandySec
+Chaos Computer Club
+DDoS
+Deface
+DoS
+Eleições
+Eleições 2018
+ForaTemer
+GhosYet
+Goiás
+hacked
+Hacking
+Hackostentação
+hacktivismo
+hacktivsmo
+Inocent
+Invasão
+k4pp4k
+KelvinSecTeam
+Knush Yukasan
+Leak
+Malokin
+Mapeamento
+Mecz1nho
+Monitoramento
+OpFueraCorruptos
+OpVenezuela
+Peru
+Phishing
+PicokasGang
+Protowave
+Pryzraky
+Segurança
+SQLi
+São Paulo
+Tr3v0r
+VandaTheGod
+Vazamento
+Venezuela
+Vulnerabilidade
+XSS
